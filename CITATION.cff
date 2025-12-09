@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "To ensure brand protection, please cite the Refloow™ software suite as follows:"
+title: "Refloow™ Quiz Builder PRO"
+abstract: "The official advanced browser-based quiz generation software maintained by the Refloow™ Software Organization."
+authors:
+  - name: "Refloow"
+    website: "https://refloow.com"
+    email: "legal@refloow.com"
+  - family-names: "Vuckovic"
+    given-names: "Veljko"
+    affiliation: "Refloow Founder"
+version: 1.0.0
+date-released: 2025-10-04
+license: "MIT"
+url: "https://refloow.com"
+keywords:
+  - "Refloow"
+  - "Refloow™"
+  - "Quiz Generator"
+  - "Test Builder"
+  - "Official"
